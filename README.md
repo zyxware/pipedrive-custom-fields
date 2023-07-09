@@ -2,7 +2,7 @@
 This tool can be used to automatically create custom fileds in your Pipedrive instance. If you are an agency managing multiple pipedrive accounts, this will act as a template for your custom fields. You just need to update the API key and company domain in the API config sheet to create the custom fields defined in the Custom Field Config sheet.
 
 # How to Use This Tool
-Once you fill the field configuration in the Custom Field Config sheet, Fill the API details in the API Config Sheet, you can generate the fields using the Menu PipeDrive -> Create FIelds. You may need to allow permission to your google to execute the script.
+Copy the Google sheet - https://docs.google.com/spreadsheets/d/13oq6_9KqjBzr5Lj6YgRmUjz_gGNUxe04CAfSjAnQby4/edit#gid=0 and fill the required information in Custom Field Config and API Config sheets. Once you fill the field configuration in the Custom Field Config sheet, Fill the API details in the API Config Sheet, you can generate the fields using the Menu PipeDrive -> Create FIelds. You may need to allow permission to your google to execute the script.
 
 # How to fetch the Company Domain from Pipedrive
 To fetch the Company Domain from the Pipedrve, login to your Pipedrive account. Move your cursor to top of the screen where you can see the URL of the page. If you look at the URL, it will be of the form http://abc.pipedrive.com/... from where you can copy the Company Domain (Here mentioned as "abc")
