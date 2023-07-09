@@ -1,6 +1,8 @@
 # Pipedrive Custom Fields
 This tool can be used to automatically create custom fileds in your Pipedrive instance. If you are an agency managing multiple pipedrive accounts, this will act as a template for your custom fields. You just need to update the API key and company domain in the API config sheet to create the custom fields defined in the Custom Field Config sheet.
 
+![PipeDriveCustomFields](https://github.com/zyxware/pipedrive-custom-fields/assets/109938/8d477f51-1f08-4dec-ae6e-5d9b0d9fba05)
+
 # How to Use This Tool
 Copy the Google sheet - https://docs.google.com/spreadsheets/d/13oq6_9KqjBzr5Lj6YgRmUjz_gGNUxe04CAfSjAnQby4/edit#gid=0 and fill the required information in Custom Field Config and API Config sheets. Once you fill the field configuration in the Custom Field Config sheet, Fill the API details in the API Config Sheet, you can generate the fields using the Menu PipeDrive -> Create FIelds. You may need to allow permission to your google to execute the script.
 
